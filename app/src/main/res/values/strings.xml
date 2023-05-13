@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="tourism_city">Tourism City</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="you_don_t_have_an_account">You don\'t have an account?</string>
+    <string name="register1"><u>Register</u></string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="eg_coimbatore">Eg : Coimbatore</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="_98765_43210">98765 43210</string>
+    <string name="dd_mm_yyyy">DD-MM-YYYY</string>
+    <string name="something_gmail_com">something@gmail.com</string>
+    <string name="eg_nickolas">Eg: Nickolas</string>
+    <string name="login1"><u>Login</u></string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="home_content">Tourism Management System is an integrated software developed for tourism business. It is a dynamic and responsive system.</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="add_travel_info">Add Travel Info</string>
+    <string name="add_route_info">Add Route info</string>
+    <string name="user_booking_info">User Booking Info</string>
+    <string name="add_hotel_info">Add Hotel Info</string>
+    <string name="logout">Logout</string>
+    <string name="name_colon">Name :</string>
+    <string name="email_colon">Email :</string>
+    <string name="mobile_colon">Mobile :</string>
+    <string name="address_colon">Address :</string>
+    <string name="agency_name">Agency Name</string>
+    <string name="enter_agency_name">Enter agency name</string>
+    <string name="location">Location</string>
+    <string name="agency_location">Agency location</string>
+    <string name="create">Create</string>
+    <string name="hotel_name">Hotel Name</string>
+    <string name="hotel_location">Hotel location</string>
+    <string name="room_availability">Room Availability</string>
+    <string name="eg_10">Eg : 10</string>
+    <string name="facility">Facility</string>
+    <string name="food_type">Food Type</string>
+    <string name="create_hotel">Create Hotel</string>
+    <string name="from">From</string>
+    <string name="from_address">From address</string>
+    <string name="to">To</string>
+    <string name="to_address">To address</string>
+    <string name="amount">Amount</string>
+    <string name="eg_1500_per_head">Eg : 1500 (Per head)</string>
+    <string name="pickup_point">Pickup Point</string>
+    <string name="pickup_time">Pickup Time</string>
+    <string name="eg_8_00_am">Eg : 8:00 AM</string>
+    <string name="drop_point">Drop Point</string>
+    <string name="eg_chennai">Eg : Chennai</string>
+    <string name="drop_time">Drop Time</string>
+    <string name="reservation_type">Reservation Type</string>
+    <string name="you_don_t_have_any_booking_data">You don\'t have any booking data</string>
+    <string name="travel_info">Travel Info</string>
+    <string name="you_don_t_have_any_travel_info">You don\'t have any travel info</string>
+    <string name="view_travel_info">View Rooms</string>
+    <string name="view_route_info">View Routes</string>
+    <string name="you_don_t_have_any_routes">You don\'t have any routes</string>
+    <string name="route_info">Route Info</string>
+    <string name="you_don_t_have_any_hotel_info">You don\'t have any hotel info</string>
+    <string name="hotel_info">Hotel Info</string>
+    <string name="view_hotel_info"><u>View Hotel Info</u></string>
+    <string name="view_rooms">View rooms</string>
+    <string name="add_rooms">Add Rooms</string>
+    <string name="room_facility">Room Facility</string>
+    <string name="no_of_person">No of Person</string>
+    <string name="eg_05">Eg : 05</string>
+    <string name="there_is_no_rooms_available">There is no rooms available</string>
+    <string name="room_info">Room Info</string>
+    <string name="book_your_tour">Book Your Tour</string>
+    <string name="book_my_tour">Book My Tour</string>
+    <string name="booking_info">Booking Info</string>
+    <string name="tour_date">Tour Date</string>
+    <string name="view_tour_report">View Tour report</string>
+    <string name="report">Report</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="booking_date">Booking Date :</string>
+    <string name="view_booking">View Booking</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="is_set">:</string>
+
+    <string-array name="hotel_facility">
+        <item>AC</item>
+        <item>NON_AC</item>
+    </string-array>
+
+    <string-array name="food_type">
+        <item>VEG</item>
+        <item>NON_VEG</item>
+    </string-array>
+
+    <string-array name="reservation_type">
+        <item>BUS</item>
+        <item>CAR</item>
+    </string-array>
+
+</resources>
